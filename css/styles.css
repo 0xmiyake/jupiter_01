@@ -713,6 +713,10 @@ footer {
   .footer-image {
     display: none;
   }
+  
+  .access-top-image {
+    height: 70px;
+  }
 
 }
 
